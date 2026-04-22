@@ -164,12 +164,6 @@ cd integration-tests
 
 ---
 
-## 📝 License
-
-This project is provided as-is for educational purposes.
-
----
-
 ## 👤 Author
 
 **Ridham Patel** — [@Ridhampatel23](https://github.com/Ridhampatel23)
